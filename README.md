@@ -4,7 +4,7 @@ Atuo há mais de 10 anos na área de Educação e Ciência da Computação, sou 
 
 👩🏽‍💻 Leciono no Centro Paula Souza há mais 10 anos, no ensino técnico e já lecionei na graduação. Drente as disciplinas que já lecionei destaco lógica de programação, modelagem de banco de dados e programação de banco de dados. 
 
-🎓  No momento estou terminando o mestrado em Ciência da Computação na UFABC. Desenvolvo minha pesquisa na linha de IHC – Interação Humano Computador, como foco em Design Participativo.
+🎓  No momento estou terminando o mestrado em Ciência da Computação na UFABC. Desenvolvo minha pesquisa na linha de IHC – Interação Humano Computador, com foco em Design Participativo.
 
 🚀 Amo compartilhar o que aprendi, então fora da sala de aula iniciei um projeto em um [canal do YouTube](bityli.com/dicasdaproaquila) e um perfil no [Instagram](https://www.instagram.com/dicasdaproaquila/) para compartilhar sobre programação, tecnologia e como ingressar na carreira em TI. 
 
