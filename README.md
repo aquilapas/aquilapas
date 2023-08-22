@@ -1,4 +1,4 @@
-Olá! Eu sou a **Áquila**, tenho 32 anos, casada, moro na região metropolitana de São Paulo. 
+Olá! Eu sou a **Áquila**, tenho 34 anos, casada, moro na região metropolitana de São Paulo. 
 
 Atuo há mais de 10 anos na área de Educação e Ciência da Computação, sou Professora do ensino técnico e graduação. Já ministrei mais de 11.000 aulas, e me conectei e aprendi com mais de 6.000 estudantes. Fiz Engenharia de Software na especialização, tenho experiência em projetos de informática na educação e gerenciamento de projetos de sistemas. Apaixonada por Desenvolvimento Humano, Coaching, Criatividade e Tecnologia, acredito que o autoconhecimento e a educação de cada indivíduo seja o caminho ao sucesso e prosperidade.
 
