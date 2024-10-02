@@ -1,13 +1,11 @@
-Olá! Eu sou a **Áquila**, tenho 34 anos, casada, moro na região metropolitana de São Paulo. 
+Olá! Eu sou a Áquila, tenho 35 anos, mãe da Ártemis, e moro na região metropolitana de São Paulo. Tenho mais de 15 anos de experiência na área de Educação e Ciência da Computação e atualmente trabalho como Engenheira de Dados na Accenture.
 
-Atuo há mais de 10 anos na área de Educação e Ciência da Computação, sou Professora do ensino técnico e graduação. Já ministrei mais de 11.000 aulas, e me conectei e aprendi com mais de 6.000 estudantes. Fiz Engenharia de Software na especialização, tenho experiência em projetos de informática na educação e gerenciamento de projetos de sistemas. Apaixonada por Desenvolvimento Humano, Coaching, Criatividade e Tecnologia, acredito que o autoconhecimento e a educação de cada indivíduo seja o caminho ao sucesso e prosperidade.
+🎓 Sou mestre em Ciência da Computação pela UFABC, onde desenvolvi a dissertação intitulada: "Uma abordagem de Design Participativo com sessões intercaladas e aplicações práticas". Minha pesquisa foi focada em IHC – Interação Humano-Computador, com especial atenção ao Design Participativo. Além disso, tenho uma especialização em Engenharia de Software e experiência em projetos de informática na educação e gerenciamento de sistemas.
 
-👩🏽‍💻 Leciono no Centro Paula Souza há mais 10 anos, no ensino técnico e já lecionei na graduação. Drente as disciplinas que já lecionei destaco lógica de programação, modelagem de banco de dados e programação de banco de dados. 
+👩🏽‍🏫 Sou professora no Centro Paula Souza há mais de 14 anos, lecionando no ensino técnico e, anteriormente, na graduação. Já ministrei mais de 11.000 aulas e tive o privilégio de me conectar e aprender com mais de 6.000 estudantes. Algumas das disciplinas que ensino incluem Lógica de Programação, Modelagem de Banco de Dados e Programação de Banco de Dados.
 
-🎓  No momento estou terminando o mestrado em Ciência da Computação na UFABC. Desenvolvo minha pesquisa na linha de IHC – Interação Humano Computador, com foco em Design Participativo.
+🚀 Apaixonada por Desenvolvimento Humano, Coaching, Criatividade e Tecnologia, acredito firmemente que o autoconhecimento e a educação são fundamentais para alcançar o sucesso e a prosperidade. Para compartilhar meu conhecimento e ajudar outros a ingressar na área de TI, criei um projeto pessoal no meu canal do YouTube e um perfil no Instagram, onde compartilho dicas sobre programação, tecnologia e carreira.
 
-🚀 Amo compartilhar o que aprendi, então fora da sala de aula iniciei um projeto em um [canal do YouTube](bityli.com/dicasdaproaquila) e um perfil no [Instagram](https://www.instagram.com/dicasdaproaquila/) para compartilhar sobre programação, tecnologia e como ingressar na carreira em TI. 
+📫 Para falar comigo, você pode me contatar pelos e-mails aquilapas89@gmail.com ou aquila.santos@cps.sp.gov.br.
 
-📫  Para falar comigo também pode ser pelo e-mail: aquilapas89@gmail.com ou aquila.santos@cps.sp.gov.br .
-
-📜 Deixo meu [Currículo Lattes](http://lattes.cnpq.br/8929693771155660) e meu [LinkedIn](https://www.linkedin.com/in/aquilaporfirio/).
+📜 Também deixo [Currículo Lattes](http://lattes.cnpq.br/8929693771155660) e meu [LinkedIn](https://www.linkedin.com/in/aquilaporfirio/).
