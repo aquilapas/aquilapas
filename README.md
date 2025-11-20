@@ -1,4 +1,4 @@
-Olá! Eu sou a Áquila, tenho 35 anos, mãe da Ártemis, e moro na região metropolitana de São Paulo. Tenho mais de 15 anos de experiência na área de Educação e Ciência da Computação e atualmente trabalho como Engenheira de Dados na Accenture.
+Olá! Eu sou a Áquila, tenho 36 anos, mãe da Ártemis, e moro em São Paulo. Tenho mais de 15 anos de experiência na área de Educação e Ciência da Computação e atualmente trabalho como Engenheira de Dados na Accenture.
 
 🎓 Sou mestre em Ciência da Computação pela UFABC, onde desenvolvi a dissertação intitulada: "Uma abordagem de Design Participativo com sessões intercaladas e aplicações práticas". Minha pesquisa foi focada em IHC – Interação Humano-Computador, com especial atenção ao Design Participativo. Além disso, tenho uma especialização em Engenharia de Software e experiência em projetos de informática na educação e gerenciamento de sistemas.
 
