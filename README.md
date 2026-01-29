@@ -1,11 +1,25 @@
-Olá! Eu sou a Áquila, tenho 36 anos, mãe da Ártemis, e moro em São Paulo. Tenho mais de 15 anos de experiência na área de Educação e Ciência da Computação e atualmente trabalho como Engenheira de Dados na Accenture.
+Olá, eu sou a Áquila
 
-🎓 Sou mestre em Ciência da Computação pela UFABC, onde desenvolvi a dissertação intitulada: "Uma abordagem de Design Participativo com sessões intercaladas e aplicações práticas". Minha pesquisa foi focada em IHC – Interação Humano-Computador, com especial atenção ao Design Participativo. Além disso, tenho uma especialização em Engenharia de Software e experiência em projetos de informática na educação e gerenciamento de sistemas.
+Sou Analista de Dados com foco em comportamento humano, Interação Humano-Computador (IHC) e inovação aplicada, atuando na interseção entre dados, tecnologia e impacto social.
 
-👩🏽‍🏫 Sou professora no Centro Paula Souza há mais de 14 anos, lecionando no ensino técnico e, anteriormente, na graduação. Já ministrei mais de 11.000 aulas e tive o privilégio de me conectar e aprender com mais de 6.000 estudantes. Algumas das disciplinas que ensino incluem Lógica de Programação, Modelagem de Banco de Dados e Programação de Banco de Dados.
+Tenho 15+ anos de experiência em Educação e Ciência da Computação, com atuação em ambientes acadêmicos, públicos e corporativos. Ao longo da trajetória, ministrei mais de 11.000 aulas e impactei 6.000+ estudantes, o que moldou meu principal diferencial: transformar complexidade técnica em decisões claras para pessoas reais.
 
-🚀 Apaixonada por Desenvolvimento Humano, Coaching, Criatividade e Tecnologia, acredito firmemente que o autoconhecimento e a educação são fundamentais para alcançar o sucesso e a prosperidade. Para compartilhar meu conhecimento e ajudar outros a ingressar na área de TI, criei um projeto pessoal no meu canal do YouTube e um perfil no Instagram, onde compartilho dicas sobre programação, tecnologia e carreira.
+🎓 Sou Mestre em Ciência da Computação pela UFABC, com pesquisa em IHC e Design Participativo, e pós-graduada em Engenharia de Software. Minha atuação é orientada à análise de dados aplicada à inovação, com foco em compreensão do usuário, acessibilidade, adoção de soluções digitais e avaliação de impacto social.
+
+🔬 Atualmente, atuo em pesquisa aplicada vinculada ao PIPE/FAPESP (Fase 1) em um MVP de plataforma de tokenização imobiliária com foco em inclusão financeira, trabalhando com análise de dados, comportamento do usuário e IHC para apoiar decisões de produto e validação da solução sob a perspectiva humana.
+
+📁 Este GitHub reúne projetos de portfólio e pesquisa aplicada, com análises, relatórios e dashboards conceituais voltados a:
+
+inovação responsável
+
+plataformas digitais complexas
+
+dados orientados à decisão
+
+impacto social e humano
 
 📫 Para falar comigo, você pode me contatar pelos e-mails aquilapas89@gmail.com ou aquila.santos@cps.sp.gov.br.
 
 📜 Também deixo [Currículo Lattes](http://lattes.cnpq.br/8929693771155660) e meu [LinkedIn](https://www.linkedin.com/in/aquilaporfirio/).
+
+Dados só geram valor quando produzem compreensão e escolhas melhores.
